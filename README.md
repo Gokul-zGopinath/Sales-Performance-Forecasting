@@ -1,7 +1,6 @@
 # Sales Performance & Profitability Analysis
 
 This project analyzes retail sales data to evaluate business performance, product profitability, discount impact, and future revenue trends. The goal is to generate actionable insights that support data-driven business decisions.
-
 ---
 
 ## 📌 Project Objectives
