@@ -32,14 +32,14 @@ This project analyzes retail sales data to evaluate business performance, produc
 ## 📈 Sales Forecast (Excel)
 The future 6-month revenue forecast was developed using Excel’s Forecast Sheet feature based on historical monthly sales trends.
 
-![Sales Forecast](sales_forecast_excel.png)
+<img width="1080" height="514" alt="1 six months forecast (Excel)" src="https://github.com/user-attachments/assets/faa89faf-402f-4ae7-8f1f-5d7bb451b3e9" />
 
 ---
 
 ## 📉 Discount vs Profit Analysis
 A scatter plot in Power BI highlights how increasing discount levels negatively impact profitability, demonstrating margin erosion at higher discount rates.
 
-![Discount vs Profit](discount_vs_profit_scatter.png)
+<img width="994" height="819" alt="Profit vs Discount scatter" src="https://github.com/user-attachments/assets/fa969435-b7ca-465a-945a-85b77fbbef7a" />
 
 ---
 
@@ -65,8 +65,7 @@ The interactive dashboard includes:
 - `Sales_Dashboard.pbix` – Power BI dashboard file  
 - `sales_forecast_excel.png` – Excel forecast visualization  
 - `discount_vs_profit_scatter.png` – Power BI scatter plot visualization  
-<img width="1080" height="514" alt="1 six months forecast (Excel)" src="https://github.com/user-attachments/assets/faa89faf-402f-4ae7-8f1f-5d7bb451b3e9" />
-<img width="994" height="819" alt="Profit vs Discount scatter" src="https://github.com/user-attachments/assets/fa969435-b7ca-465a-945a-85b77fbbef7a" />
+
 <img width="1537" height="864" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/89547d42-69fb-4a20-b14c-3f4c4fda3f06" />
 
 
